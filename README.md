@@ -19,7 +19,7 @@
 
 ### Desktop Preview
 
-![Accordion Desktop Demo](./preview.webp)
+![Accordion Desktop Demo](./images/preview.webp)
 
 ### Website Contain
 
